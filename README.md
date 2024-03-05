@@ -1,16 +1,41 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="name.svg" alt="Marton Lederer" />
+</h1>
 
-<!--
-**land-bit/land-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un devellopeur frontend congolais
 
-Here are some ideas to get you started:
+- 🦔 Gradué en genie logiciel à l'ULPGL/Goma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Former en develloppement web et mobile chez Kadea Academy, Goma
+
+* a lot more ;)
+
+## Skills
+
+- 👨‍💻 HTML, CSS, JavaScript, etc...
+- ⚙️ React
+- 👁️ CSS, Tailwindcss
+
+* a lot more :D
+
+## Contact
+
+## 📝 Blogs
+
+### 📔 Latest Blog posts
+
+## 🔧 Technologies & Tools
+
+**Cloud Services:**
+
+**Programming Languages:**
+
+\*_Tools and Services:_# Hello there 👋
+
+## 🏆 GitHub Trophies
+
+## 🗂️ Highlight Projects
+
+## 👨‍💻 This week, I spent my time on:
+
+## &#x1f4c8; GitHub Stats
