@@ -26,6 +26,8 @@ Je suis un devellopeur fullstack
 
 ### 📔 Latest Blog posts
 
+- [Meilleures pratiques pour créer une application Express.js](https://dev.to/land-bit/meilleures-pratiques-pour-creer-une-application-expressjs-583g)
+
 ## 🔧 Technologies & Tools
 
 **Cloud Services:**
