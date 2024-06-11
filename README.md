@@ -37,6 +37,7 @@ Je suis un devellopeur fullstack
 \*_Tools and Services:_# Hello there 👋
 
 ## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=land-bit)
 
 ## 🗂️ Highlight Projects
 
