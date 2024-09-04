@@ -20,7 +20,7 @@ I am a fullstack developer
 
 - landrybitege7@gmail.com
 - +243 (0) 973 173 176
-- land_bit (telegram)
+- [land_bit (telegram)](https://t.me/land_bit)
 
 ## 📝 Blogs
 
