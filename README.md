@@ -1,11 +1,10 @@
 <h1 align="center">
-  <img src="name.svg" alt="Marton Lederer" />
+  <img src="name.svg" alt="Landry Bitege" />
 </h1>
 
 I am a fullstack developer
 
 - 🦔 Graduated in software engineering at ULPGL/Goma
-
 - 👨‍💻 Train in web and mobile development at Kadea Academy, Goma
 
 ## Skills
